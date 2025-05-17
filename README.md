@@ -23,3 +23,12 @@ A chocolate Bar Rating by experts based on the flavor and the percent of cocoa i
 5.	Is there a relationship between cocoa percentage and rating?
 	
 6.	Which review year has the highest number of ratings?
+
+# Dataset
+
+Chocolate Bar Rating Dataset
+Link: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
+
+# Tools Used
+
+
