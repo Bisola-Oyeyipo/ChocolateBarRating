@@ -58,4 +58,9 @@ v. Sent to Client: The final report presented in Excel.
 # Resource
 An open-source dataset from kaggle for the purpose of learning.
 
+# Links
+Kaggle:
+
+Tableau:
+
 
