@@ -42,3 +42,16 @@ Iv. Numpy: Used for mathematical equation.
 
 v. Scipy: Used for equations.
 
+# Folder
+The project files are divided between the following folders:
+
+i. Project Management: Project Brief.
+
+ii. Data: it is divided into two subfolders (Original Data and Prepared Data). These contains the dataset in it original form. Prepared Data contains the dataset that have been cleaned and merged.
+
+iii. Scripts: The Jupyter notebooks contain the code for the analysis.
+
+iv. Analysis: It contains the visualizations used for developing and explaining insights.
+
+v. Sent to Client: The final report presented in Excel.
+
