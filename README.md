@@ -30,5 +30,15 @@ Chocolate Bar Rating Dataset
 Link: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
 
 # Tools Used
+Python was used for the analysis of this project and Tableau for some visualization. And there was additional libraries used which are;
 
+i. Pandas: Used for data analysis.
+
+ii. Seaborn: Used for data visualization.
+
+iii. Matplotlib: Used for data visualization.
+
+Iv. Numpy: Used for mathematical equation.
+
+v. Scipy: Used for equations.
 
