@@ -56,5 +56,6 @@ iv. Analysis: It contains the visualizations used for developing and explaining 
 v. Sent to Client: The final report presented in Excel.
 
 # Resource
+An open-source dataset from kaggle for the purpose of learning.
 
 
