@@ -12,3 +12,14 @@ A chocolate Bar Rating by experts based on the flavor and the percent of cocoa i
 1= Unpleasant (mostly unpalatable)
 
 # Key Questions
+1.	Where are the best cocoa beans grown?
+2.	
+3.	Which chocolate bar have the highest percentage of cocoa?
+4.	
+5.	Which countries produce the highest rated bar?
+6.	
+7.	Which company produce the highest number of chocolate bar?
+8.	
+9.	Is there a relationship between cocoa percentage and rating?
+10.	
+11.	Which review year has the highest number of ratings?
