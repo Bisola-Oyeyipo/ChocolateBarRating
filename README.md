@@ -59,8 +59,8 @@ v. Sent to Client: The final report presented in Excel.
 An open-source dataset from kaggle for the purpose of learning.
 
 # Links
-Kaggle:
+Kaggle: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
 
-Tableau:
+Tableau: https://public.tableau.com/app/profile/bisola.oyeyipo/viz/Bisola_Chocolate_Bar_Analysis_Project/ChocolateBarAnalysis
 
 
